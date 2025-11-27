@@ -73,5 +73,5 @@ It motivates the work and helps others discover this resource.
 
 🧑‍💻 Author
 
-Sakshi Samal
+Sakshi Samal...
 Python learner, exploring programming from basics onward.
